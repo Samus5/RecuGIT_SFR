@@ -8,17 +8,8 @@ Repositorio del departamento de marketing de Unicaja Baloncesto
 
 **Web Oficial del club**
 
+La web oficial del club es [Web Oficial](https://www.unicajabaloncesto.com/). 
 
-La web oficial del club es [Web Oficial](https://www.unicajabaloncesto.com/). ![Deberia funcionar esto](https://www.unicajabaloncesto.com/Images/Web/logo.png)
-
-
-
-
-
-
-
+<img src="https://www.unicajabaloncesto.com/Images/Web/logo.png" alt="Deberia funcionar esto" style="float:left; margin-right: 10px;" />
 
 Descarga el contenido del repositorio clonándolo en tu equipo, con el comando
-```
-git clone
-```
